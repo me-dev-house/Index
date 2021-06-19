@@ -6,3 +6,4 @@
 - SWS => Smart Watering System
 - EMS => Emergency Map
 - SPL => Slim Pay Roll
+- RTMA => Real time monitoring accident 
